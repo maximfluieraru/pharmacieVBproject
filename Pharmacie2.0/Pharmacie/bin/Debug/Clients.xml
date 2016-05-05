@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LesClients xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <Client_Personne>
+      <ID>LaGab</ID>
+      <Titre>Madame</Titre>
+      <Nom>Lafontaine</Nom>
+      <Prenom>Gabrielle</Prenom>
+      <Date_Naissance>1976-01-12T00:00:00</Date_Naissance>
+      <Telephone>(514) 765-7315</Telephone>
+      <Adresse>5858 Côte-des-Neiges</Adresse>
+      <Ville>Verdun </Ville>
+      <Code_Postale>H4G 3G7</Code_Postale>
+      <Assurance_Gouv>73628787</Assurance_Gouv>
+      <Assurance>984739879</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>GeJoh</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Gentile</Nom>
+      <Prenom>John</Prenom>
+      <Date_Naissance>1985-06-02T00:00:00</Date_Naissance>
+      <Telephone>(514) 483-0905</Telephone>
+      <Adresse>7333 Place-des-Roseraies</Adresse>
+      <Ville>Lachine </Ville>
+      <Code_Postale>H8T 1A4</Code_Postale>
+      <Assurance_Gouv>34875783</Assurance_Gouv>
+      <Assurance>725678235</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>DiGil</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Dicaire</Nom>
+      <Prenom>Gilbert</Prenom>
+      <Date_Naissance>1994-09-17T00:00:00</Date_Naissance>
+      <Telephone>(514) 684-6759</Telephone>
+      <Adresse>10655 Henri-Bourassa West</Adresse>
+      <Ville>Pointe-Claire</Ville>
+      <Code_Postale>H9R 5Z4</Code_Postale>
+      <Assurance_Gouv>78379878</Assurance_Gouv>
+      <Assurance>489374829</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>SoPie</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Sopel</Nom>
+      <Prenom>Pierre</Prenom>
+      <Date_Naissance>1981-02-16T00:00:00</Date_Naissance>
+      <Telephone>(514) 415-3573</Telephone>
+      <Adresse>10501 Côte-de-Liesse</Adresse>
+      <Ville>Laval </Ville>
+      <Code_Postale>H3G 1T4</Code_Postale>
+      <Assurance_Gouv>63487273</Assurance_Gouv>
+      <Assurance>889325789</Assurance>
+      <Allergies>true</Allergies>
+      <Comentaires>saisonniere</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>BrYan</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Brisson</Nom>
+      <Prenom>Yannick</Prenom>
+      <Date_Naissance>1976-01-13T00:00:00</Date_Naissance>
+      <Telephone>(514) 736-8129</Telephone>
+      <Adresse>5859 Côte-des-Neiges</Adresse>
+      <Ville>Montreal</Ville>
+      <Code_Postale>H3S 2H10</Code_Postale>
+      <Assurance_Gouv>73826867</Assurance_Gouv>
+      <Assurance>547295799</Assurance>
+      <Allergies>true</Allergies>
+      <Comentaires>saisonniere</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>BuHec</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Bustillo</Nom>
+      <Prenom>Hector</Prenom>
+      <Date_Naissance>1985-06-03T00:00:00</Date_Naissance>
+      <Telephone>(514) 765-7314</Telephone>
+      <Adresse>7334 Place-des-Roseraies</Adresse>
+      <Ville>Verdun </Ville>
+      <Code_Postale>H4G 3G8</Code_Postale>
+      <Assurance_Gouv>87987888</Assurance_Gouv>
+      <Assurance>984739880</Assurance>
+      <Allergies>true</Allergies>
+      <Comentaires>saisonniere</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>CaPas</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Cauden</Nom>
+      <Prenom>Pascal</Prenom>
+      <Date_Naissance>1994-09-18T00:00:00</Date_Naissance>
+      <Telephone>(514) 483-0904</Telephone>
+      <Adresse>10656 Henri-Bourassa West</Adresse>
+      <Ville>Lachine </Ville>
+      <Code_Postale>H8T 1A5</Code_Postale>
+      <Assurance_Gouv>73628788</Assurance_Gouv>
+      <Assurance>725678236</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>DiAbd</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Diaw</Nom>
+      <Prenom>Abdou</Prenom>
+      <Date_Naissance>1981-02-17T00:00:00</Date_Naissance>
+      <Telephone>(514) 684-6758</Telephone>
+      <Adresse>10502 Côte-de-Liesse</Adresse>
+      <Ville>Pointe-Claire</Ville>
+      <Code_Postale>H9R 5Z5</Code_Postale>
+      <Assurance_Gouv>34875784</Assurance_Gouv>
+      <Assurance>489374830</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>SeLis</ID>
+      <Titre>Madame</Titre>
+      <Nom>Senécal</Nom>
+      <Prenom>Lise</Prenom>
+      <Date_Naissance>1976-01-14T00:00:00</Date_Naissance>
+      <Telephone>(514) 415-3572</Telephone>
+      <Adresse>5860 Côte-des-Neiges</Adresse>
+      <Ville>Laval </Ville>
+      <Code_Postale>H3G 1T5</Code_Postale>
+      <Assurance_Gouv>78379879</Assurance_Gouv>
+      <Assurance>889325790</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>TrChr</ID>
+      <Titre>Madame</Titre>
+      <Nom>Tremblay</Nom>
+      <Prenom>Christiane</Prenom>
+      <Date_Naissance>1985-06-04T00:00:00</Date_Naissance>
+      <Telephone>(514) 736-8128</Telephone>
+      <Adresse>7335 Place-des-Roseraies</Adresse>
+      <Ville>Montreal</Ville>
+      <Code_Postale>H3S 2H11</Code_Postale>
+      <Assurance_Gouv>63487274</Assurance_Gouv>
+      <Assurance>547295800</Assurance>
+      <Allergies>true</Allergies>
+      <Comentaires>saisonniere</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>LaGab</ID>
+      <Titre>Madame</Titre>
+      <Nom>Lafontaine</Nom>
+      <Prenom>Gabrielle</Prenom>
+      <Date_Naissance>1994-09-19T00:00:00</Date_Naissance>
+      <Telephone>(514) 765-7313</Telephone>
+      <Adresse>10657 Henri-Bourassa West</Adresse>
+      <Ville>Verdun </Ville>
+      <Code_Postale>H4G 3G9</Code_Postale>
+      <Assurance_Gouv>73826868</Assurance_Gouv>
+      <Assurance>984739881</Assurance>
+      <Allergies>true</Allergies>
+      <Comentaires>saisonniere</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>FrDen</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Fréchette</Nom>
+      <Prenom>Denis</Prenom>
+      <Date_Naissance>1981-02-18T00:00:00</Date_Naissance>
+      <Telephone>(514) 483-0903</Telephone>
+      <Adresse>10503 Côte-de-Liesse</Adresse>
+      <Ville>Lachine </Ville>
+      <Code_Postale>H8T 1A6</Code_Postale>
+      <Assurance_Gouv>87987889</Assurance_Gouv>
+      <Assurance>725678237</Assurance>
+      <Allergies>true</Allergies>
+      <Comentaires>saisonniere</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>LeJea</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Lessard</Nom>
+      <Prenom>Jean-Sébastien</Prenom>
+      <Date_Naissance>1976-01-15T00:00:00</Date_Naissance>
+      <Telephone>(514) 684-6757</Telephone>
+      <Adresse>5861 Côte-des-Neiges</Adresse>
+      <Ville>Pointe-Claire</Ville>
+      <Code_Postale>H9R 5Z6</Code_Postale>
+      <Assurance_Gouv>73628789</Assurance_Gouv>
+      <Assurance>489374831</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>CiKer</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Cineus</Nom>
+      <Prenom>Keren</Prenom>
+      <Date_Naissance>1985-06-05T00:00:00</Date_Naissance>
+      <Telephone>(514) 415-3571</Telephone>
+      <Adresse>7336 Place-des-Roseraies</Adresse>
+      <Ville>Laval </Ville>
+      <Code_Postale>H3G 1T6</Code_Postale>
+      <Assurance_Gouv>34875785</Assurance_Gouv>
+      <Assurance>889325791</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>PaBen</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Paquette</Nom>
+      <Prenom>Benoît</Prenom>
+      <Date_Naissance>1994-09-20T00:00:00</Date_Naissance>
+      <Telephone>(514) 736-8127</Telephone>
+      <Adresse>10658 Henri-Bourassa West</Adresse>
+      <Ville>Montreal</Ville>
+      <Code_Postale>H3S 2H12</Code_Postale>
+      <Assurance_Gouv>78379880</Assurance_Gouv>
+      <Assurance>547295801</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>DaLou</ID>
+      <Titre>Madame</Titre>
+      <Nom>Dagenais </Nom>
+      <Prenom>Louise</Prenom>
+      <Date_Naissance>1981-02-19T00:00:00</Date_Naissance>
+      <Telephone>(514) 483-0902</Telephone>
+      <Adresse>5862 Côte-des-Neiges</Adresse>
+      <Ville>Lachine </Ville>
+      <Code_Postale>H8T 1A7</Code_Postale>
+      <Assurance_Gouv>63487275</Assurance_Gouv>
+      <Assurance>984739882</Assurance>
+      <Allergies>true</Allergies>
+      <Comentaires>saisonniere</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>HoCla</ID>
+      <Titre>Madame</Titre>
+      <Nom>Houle</Nom>
+      <Prenom>Claudette</Prenom>
+      <Date_Naissance>1976-01-16T00:00:00</Date_Naissance>
+      <Telephone>(514) 684-6756</Telephone>
+      <Adresse>7337 Place-des-Roseraies</Adresse>
+      <Ville>Pointe-Claire</Ville>
+      <Code_Postale>H9R 5Z7</Code_Postale>
+      <Assurance_Gouv>73826869</Assurance_Gouv>
+      <Assurance>725678238</Assurance>
+      <Allergies>true</Allergies>
+      <Comentaires>saisonniere</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>SaHam</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Saliah-Hassane</Nom>
+      <Prenom>Hamadou</Prenom>
+      <Date_Naissance>1985-06-06T00:00:00</Date_Naissance>
+      <Telephone>(514) 415-3570</Telephone>
+      <Adresse>10659 Henri-Bourassa West</Adresse>
+      <Ville>Laval </Ville>
+      <Code_Postale>H3G 1T7</Code_Postale>
+      <Assurance_Gouv>87987890</Assurance_Gouv>
+      <Assurance>489374832</Assurance>
+      <Allergies>true</Allergies>
+      <Comentaires>saisonniere</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>GéSta</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Génnaro </Nom>
+      <Prenom>Stabile</Prenom>
+      <Date_Naissance>1994-09-21T00:00:00</Date_Naissance>
+      <Telephone>(514) 736-8126</Telephone>
+      <Adresse>10505 Côte-de-Liesse</Adresse>
+      <Ville>Montreal</Ville>
+      <Code_Postale>H3S 2H13</Code_Postale>
+      <Assurance_Gouv>73628790</Assurance_Gouv>
+      <Assurance>889325792</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>GhHad</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Ghoreishi</Nom>
+      <Prenom>Hadi</Prenom>
+      <Date_Naissance>1981-02-20T00:00:00</Date_Naissance>
+      <Telephone>(514) 765-7311</Telephone>
+      <Adresse>5863 Côte-des-Neiges</Adresse>
+      <Ville>Verdun </Ville>
+      <Code_Postale>H4G 3G11</Code_Postale>
+      <Assurance_Gouv>34875786</Assurance_Gouv>
+      <Assurance>547295802</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+    <Client_Personne>
+      <ID>ZiNic</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Zisswiller</Nom>
+      <Prenom>Nicolas</Prenom>
+      <Date_Naissance>1976-01-17T00:00:00</Date_Naissance>
+      <Telephone>(514) 483-0901</Telephone>
+      <Adresse>7338 Place-des-Roseraies</Adresse>
+      <Ville>Lachine </Ville>
+      <Code_Postale>H8T 1A8</Code_Postale>
+      <Assurance_Gouv>78379881</Assurance_Gouv>
+      <Assurance>984739883</Assurance>
+      <Allergies>false</Allergies>
+      <Comentaires>aucune</Comentaires>
+    </Client_Personne>
+  </list>
+</LesClients>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LesOrdonnances xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <Ordonnance>
+      <ID_Client>LaGab</ID_Client>
+      <ID>123</ID>
+      <Medecin>Med123</Medecin>
+      <Nb_Renouvlemnts>5</Nb_Renouvlemnts>
+      <Date_Redaction>2015-02-07</Date_Redaction>
+      <Confirmees>false</Confirmees>
+      <Medicament>Zyloric Qte:1</Medicament>
+    </Ordonnance>
+    <Ordonnance>
+      <ID_Client>BrMar</ID_Client>
+      <ID>13256</ID>
+      <Medecin>MED132456</Medecin>
+      <Nb_Renouvlemnts>1</Nb_Renouvlemnts>
+      <Date_Redaction>2015-02-10</Date_Redaction>
+      <Confirmees>true</Confirmees>
+      <Medicament>Acyclovir Qte:1</Medicament>
+    </Ordonnance>
+    <Ordonnance>
+      <ID_Client>DiAbd</ID_Client>
+      <ID>sadad22</ID>
+      <Medecin>amsdme1</Medecin>
+      <Nb_Renouvlemnts>2</Nb_Renouvlemnts>
+      <Date_Redaction>2015-02-03</Date_Redaction>
+      <Confirmees>true</Confirmees>
+      <Medicament>Endoxan Qte:1</Medicament>
+    </Ordonnance>
+  </list>
+</LesOrdonnances>Client>SoPie</ID_Client>
+      <ID>345</ID>
+      <Medecin>jmvb456</Medecin>
+      <Nb_Renouvlemnts>4</Nb_Renouvlemnts>
+      <Date_Redaction>2015-06-19</Date_Redaction>
+      <Confirmees>false</Confirmees>
+      <Medicament>Zinacef Qte:1</Medicament>
+    </Ordonnance>
+    <Ordonnance>
+      <ID_Client>DiAbd</ID_Client>
+      <ID>214352</ID>
+      <Medecin>nwerk23</Medecin>
+      <Nb_Renouvlemnts>1</Nb_Renouvlemnts>
+      <Date_Redaction>2015-06-26</Date_Redaction>
+      <Confirmees>false</Confirmees>
+      <Medicament>Alucol Qte:1</Medicament>
+    </Ordonnance>
+  </list>
+</LesOrdonnances>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LesEmployes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <Employe_Pharm>
+      <ID>FlMax</ID>
+      <Titre>Monsieur</Titre>
+      <Nom>Fluieraru</Nom>
+      <Prenom>Maxim</Prenom>
+      <Date_Naissance>1900-01-01T00:00:00</Date_Naissance>
+      <Telephone>1235467890</Telephone>
+      <Adresse>123 rue Rue</Adresse>
+      <Ville>Montreal</Ville>
+      <Code_Postale>H1H1H1</Code_Postale>
+      <le_poste>Admin</le_poste>
+      <mot_de_passe>123</mot_de_passe>
+      <NAS>23456789</NAS>
+    </Employe_Pharm>
+    <Employe_Pharm>
+      <ID>admin</ID>
+      <Titre>Madame</Titre>
+      <Nom>ad</Nom>
+      <Prenom>min</Prenom>
+      <Date_Naissance>1900-01-01T00:00:00</Date_Naissance>
+      <Telephone />
+      <Adresse />
+      <Ville />
+      <Code_Postale />
+      <le_poste>Admin</le_poste>
+      <mot_de_passe>admin</mot_de_passe>
+      <NAS />
+    </Employe_Pharm>
+    <Employe_Pharm>
+      <ID>NoPre</ID>
+      <Titre>Madame</Titre>
+      <Nom>Nom</Nom>
+      <Prenom>Prenom</Prenom>
+      <Date_Naissance>1900-01-01T00:00:00</Date_Naissance>
+      <Telephone />
+      <Adresse />
+      <Ville />
+      <Code_Postale />
+      <le_poste>Commis</le_poste>
+      <mot_de_passe>123</mot_de_passe>
+      <NAS />
+    </Employe_Pharm>
+  </list>
+</LesEmployes>

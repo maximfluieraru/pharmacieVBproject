@@ -1,0 +1,113 @@
+\\vmware-host\Shared Folders\Public\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.LoginForm.resources
+\\vmware-host\Shared Folders\Public\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+\\vmware-host\Shared Folders\Public\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Public\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.formLogin.resources
+C:\Users\Maxim\Desktop\VB\Pharmacie\Pharmacie\bin\Debug\Pharmacie.exe
+C:\Users\Maxim\Desktop\VB\Pharmacie\Pharmacie\bin\Debug\Pharmacie.pdb
+C:\Users\Maxim\Desktop\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.FenetreBase.resources
+C:\Users\Maxim\Desktop\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.FormLogin.resources
+C:\Users\Maxim\Desktop\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+C:\Users\Maxim\Desktop\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.vbproj.GenerateResource.Cache
+C:\Users\Maxim\Desktop\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.exe
+C:\Users\Maxim\Desktop\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+C:\Users\Maxim\Desktop\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.vbprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.EnregCOMME.resources
+G:\3\INTERFACES_Dot_net\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.exe
+G:\3\INTERFACES_Dot_net\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+G:\3\INTERFACES_Dot_net\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.vbprojResolveAssemblyReference.cache
+G:\3\INTERFACES_Dot_net\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.EnregCOMME.resources
+G:\3\INTERFACES_Dot_net\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.FenetreBase.resources
+G:\3\INTERFACES_Dot_net\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.FormLogin.resources
+G:\3\INTERFACES_Dot_net\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+G:\3\INTERFACES_Dot_net\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.vbproj.GenerateResource.Cache
+G:\3\INTERFACES_Dot_net\VB\Pharmacie\Pharmacie\bin\Debug\Pharmacie.exe
+G:\3\INTERFACES_Dot_net\VB\Pharmacie\Pharmacie\bin\Debug\Pharmacie.pdb
+E:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.exe
+E:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+E:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\bin\Debug\Pharmacie.exe
+E:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\bin\Debug\Pharmacie.pdb
+E:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.vbprojResolveAssemblyReference.cache
+E:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.EnregCOMME.resources
+E:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.FenetreBase.resources
+E:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.FormLogin.resources
+E:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+E:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.vbproj.GenerateResource.Cache
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.exe
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\bin\Debug\Pharmacie.exe
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\bin\Debug\Pharmacie.pdb
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.vbprojResolveAssemblyReference.cache
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.EnregCOMME.resources
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.FenetreBase.resources
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.FormLogin.resources
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie\Pharmacie\obj\x86\Debug\Pharmacie.vbproj.GenerateResource.Cache
+C:\Users\Maxim\Desktop\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.exe
+C:\Users\Maxim\Desktop\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+C:\Users\Maxim\Desktop\VB\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.exe
+C:\Users\Maxim\Desktop\VB\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.pdb
+C:\Users\Maxim\Desktop\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.vbprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.EnregCOMME.resources
+C:\Users\Maxim\Desktop\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FenetreBase.resources
+C:\Users\Maxim\Desktop\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FormLogin.resources
+C:\Users\Maxim\Desktop\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+C:\Users\Maxim\Desktop\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.vbproj.GenerateResource.Cache
+F:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.exe
+F:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+G:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.exe
+G:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+G:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.exe
+G:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.pdb
+G:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.vbprojResolveAssemblyReference.cache
+G:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.EnregCOMME.resources
+G:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FenetreBase.resources
+G:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FormLogin.resources
+G:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+G:\3\INTERFACES_Dot_net\TP\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.vbproj.GenerateResource.Cache
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.exe
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.exe
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.pdb
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.vbprojResolveAssemblyReference.cache
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.EnregCOMME.resources
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FenetreBase.resources
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FormLogin.resources
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+F:\3\INTERFACES_Dot_net\TP\VB\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.vbproj.GenerateResource.Cache
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.exe
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.vbprojResolveAssemblyReference.cache
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.EnregCOMME.resources
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FenetreBase.resources
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FormLogin.resources
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.vbproj.GenerateResource.Cache
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.exe
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.pdb
+G:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.exe
+G:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+G:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.exe
+G:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.pdb
+G:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.vbprojResolveAssemblyReference.cache
+G:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.EnregCOMME.resources
+G:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FenetreBase.resources
+G:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FormLogin.resources
+G:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+G:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.vbproj.GenerateResource.Cache
+F:\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.EregEmpl.resources
+E:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.exe
+E:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.exe
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.pdb
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.exe
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\bin\Debug\Pharmacie.pdb
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.EnregCOMME.resources
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.EregEmpl.resources
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FenetreBase.resources
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.FormLogin.resources
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.Resources.resources
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Nouveau dossier\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\1-3\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.exe
+H:\1-3\3\INTERFACES_Dot_net\Pharmacie2.0\Pharmacie\obj\x86\Debug\Pharmacie.pdb
